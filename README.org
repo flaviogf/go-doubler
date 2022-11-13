@@ -1,0 +1,3 @@
+#+TITLE: go-doubler
+
+Simple project to test GitHub actions building and testing go
